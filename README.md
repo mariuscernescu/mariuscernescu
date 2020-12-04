@@ -3,7 +3,7 @@
 My name is Marius and I am learning Web Development.</br>
 I am currently working on my cs50 final project.
 </br>
-I would like to get involved and contribute to open-source and develop my skills and I would appreciate constructive criticism.
+I would like to get involved and contribute to open-source and develop my skills and I would appreciate constructive criticism.</br>
 </br>
 Next on the list for me:</br></br>
 1.Node.js</br>
