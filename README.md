@@ -11,7 +11,7 @@ Looking forward to learn next:</br>
 3.Nuxt.js</br>
 4.MongoDB
 </br></br>
-You can reach me here on GitHub or on my Twiter account @CernescuMarius</br>
+You can reach me here, on GitHub or on my Twiter account @CernescuMarius</br>
 Best regards.
 <!--
 **mariuscernescu/mariuscernescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
