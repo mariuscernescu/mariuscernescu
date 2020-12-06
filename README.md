@@ -1,5 +1,5 @@
-### Hello World !
-</br>
+![GitHub Logo](/banner/Banner_Github.png)
+</br> </br>
 My name is Marius and I am learning Web Development.</br>
 I am currently working on my cs50 final project.
 </br>
