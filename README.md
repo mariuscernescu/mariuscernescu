@@ -8,7 +8,7 @@ I would like to develop my skills by contributing to open-source projects. Any f
 Looking forward to learn next:</br>
 1.Node.js</br>
 2.Vue.js</br>
-3.MongoDB
+3.MongoDB</br>
 4.Nuxt.js</br>
 </br></br>
 You can reach me here, on GitHub or on my Twiter account @CernescuMarius</br>
