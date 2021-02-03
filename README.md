@@ -1,7 +1,7 @@
 ![GitHub Logo](/banner/Banner_Github.png)
 </br> </br>
 My name is Marius and I am learning Web Development.</br>
-I am currently working on my cs50 final project.
+I am currently working on my portfolio getting ready to start applying for openings.
 </br>
 I would like to develop my skills by contributing to open-source projects. Any feedback is highly appreciated.</br>
 </br>
