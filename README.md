@@ -1,7 +1,6 @@
 ![GitHub Logo](/banner/Banner_Github.png)
 </br> </br>
-My name is Marius and I am learning Web Development.</br>
-I am currently working on my portfolio getting ready to start applying for openings.
+My name is Marius and I am a Web Developmer.</br>
 </br>
 I would like to develop my skills by contributing to open-source projects. Any feedback is highly appreciated.</br>
 </br>
