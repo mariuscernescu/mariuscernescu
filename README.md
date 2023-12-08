@@ -1,7 +1,4 @@
 ![GitHub Logo](/banner/Banner_Github.png)
-</br> </br>
-My name is Marius and I am a Full Stack Developer.</br>
-</br>
 <!--
 **mariuscernescu/mariuscernescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
